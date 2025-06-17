@@ -85,25 +85,93 @@ search What is the salary range for senior engineers?
 # Notice admin gets more detailed salary information!
 ```
 
-## 📊 Architecture & Data Flow
+## 📊 System Architecture & Data Flow
+
+### **Complete RAG Pipeline Architecture**
 
 ```mermaid
 graph TB
-    A[HR Documents<br/>8 files, 146 chunks] --> B[Role-Based Parser]
-    B --> C{Access Control}
-    C -->|👤 User| D[Public Content<br/>Benefits, Policies]
-    C -->|👑 Admin| E[Confidential Content<br/>Salaries, Termination]
+    A[Text Files<br/>data/*.txt] --> B[Document Parser]
+    B --> C{Access Control Router}
+    C -->|User Level| D[User Chunks]
+    C -->|Admin Level| E[Admin Chunks]
     
-    D --> F[MiniLM-L6-v2<br/>Embedding Service]
+    D --> F[Embedding Service]
     E --> F
-    F --> G[384D Vectors]
+    F --> G[MiniLM-L6-v2<br/>384 dimensions]
     
-    G --> H[Qdrant<br/>6333<br/>Rust-based]
-    G --> I[Weaviate<br/>8080<br/>Go-based]
+    G --> H[Qdrant<br/>Rust-based<br/>Port 6333]
+    G --> I[Weaviate<br/>Go-based<br/>Port 8080]
     
-    H --> J[Benchmark Suite]
+    H --> J[Benchmark Script]
     I --> J
-    J --> K[13ms avg queries<br/>21-24 results]
+    J --> K[Performance Results]
+    
+    L[User Interface] --> M[Role Toggle<br/>user ↔ admin]
+    M --> N[Query Processor]
+    N --> H
+    N --> I
+    
+    style A fill:#e1f5fe
+    style C fill:#fff3e0
+    style F fill:#f3e5f5
+    style H fill:#ffebee
+    style I fill:#e8f5e8
+    style K fill:#fff8e1
+```
+
+### **Data Processing Flow**
+
+```mermaid
+sequenceDiagram
+    participant U as User
+    participant Q as Query Processor
+    participant AC as Access Control
+    participant E as Embedding Service
+    participant DB as Vector Database
+    participant R as Results
+
+    U->>Q: "What is the salary range?"
+    Q->>AC: Check user role (user/admin)
+    AC->>E: Get query embedding
+    E->>DB: Search with role filters
+    DB->>R: Return filtered results
+    R->>U: Show appropriate results
+    
+    Note over AC,DB: Admin sees confidential data<br/>User sees public data only
+```
+
+### **Component Architecture**
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    RAG System Components                    │
+├─────────────────────────────────────────────────────────────┤
+│ 📄 Document Layer                                          │
+│   ├── benefits_guide.txt (44 chunks)                      │
+│   ├── employee_handbook.txt (63 chunks)                   │
+│   ├── compensation_policy.txt (7 chunks) 🔒               │
+│   └── termination_guidelines.txt (8 chunks) 🔒            │
+│                                                             │
+│ 🔧 Processing Layer                                        │
+│   ├── Document Parser (role-based chunking)               │
+│   ├── Access Control Router (user/admin)                  │
+│   └── Embedding Service (MiniLM-L6-v2)                    │
+│                                                             │
+│ 🗄️ Storage Layer                                          │
+│   ├── Qdrant (Rust) - Port 6333/6334                     │
+│   └── Weaviate (Go) - Port 8080/50051                     │
+│                                                             │
+│ 🔍 Query Layer                                            │
+│   ├── Role-Based Search (user/admin filtering)            │
+│   ├── Semantic Similarity (cosine distance)               │
+│   └── Result Ranking (relevance scores)                   │
+│                                                             │
+│ 📊 Benchmark Layer                                        │
+│   ├── Performance Testing (8 test queries)                │
+│   ├── Access Control Validation                           │
+│   └── Speed Comparison (13ms average)                     │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ## 📋 Test Dataset Details
