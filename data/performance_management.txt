@@ -1,0 +1,66 @@
+=== ACCESS: user ===
+Performance management guidelines for employees to understand review processes and expectations.
+
+1. Performance Review Schedule:
+Annual reviews conducted in December with ratings affecting compensation and career progression.
+Mid-year check-ins in June focus on goal progress and development needs.
+Quarterly one-on-ones with manager to discuss ongoing performance and feedback.
+New employee 90-day review to assess initial performance and cultural fit.
+
+2. Goal Setting Framework:
+SMART goals required: Specific, Measurable, Achievable, Relevant, Time-bound.
+Individual goals must align with team and company objectives.
+Maximum 5 goals per review period to maintain focus.
+Goals should include 70% performance objectives, 30% development objectives.
+
+3. Performance Ratings:
+Exceeds Expectations (5): Consistently surpasses goals, demonstrates leadership.
+Meets Expectations Plus (4): Regularly exceeds most goals and expectations.
+Meets Expectations (3): Achieves all goals and meets job requirements.
+Below Expectations (2): Falls short of some goals, needs improvement.
+Unsatisfactory (1): Fails to meet basic job requirements.
+
+4. Self-Assessment Process:
+Employees complete self-evaluation 1 week before review meeting.
+Include specific examples of achievements and challenges faced.
+Identify areas for professional development and career aspirations.
+Suggest resources or support needed to improve performance.
+
+5. Development Planning:
+Individual Development Plan (IDP) created annually with manager.
+Skills assessment identifies strengths and growth areas.
+Training opportunities include internal courses, conferences, and certifications.
+Mentorship program available for all employees.
+
+=== ACCESS: admin ===
+Advanced performance management processes and analytics for HR and management teams.
+
+6. Calibration Process:
+Manager calibration sessions ensure consistent rating standards across teams.
+HR facilitates calibration meetings before final ratings are determined.
+Bell curve distribution guidelines: 10% exceeds, 70% meets, 20% below expectations.
+Skip-level reviews required for all "exceeds" and "unsatisfactory" ratings.
+
+7. Performance Analytics:
+Track rating distribution by department, tenure, and demographic groups.
+Identify high-potential employees for succession planning.
+Analyze correlation between performance ratings and turnover.
+Monitor manager effectiveness through team performance trends.
+
+8. Legal and Compliance:
+Documentation requirements for all performance discussions and ratings.
+Ensure performance management complies with employment law requirements.
+Protected class considerations in performance evaluation processes.
+Maintain confidentiality of all performance-related information.
+
+9. Performance Improvement Plans:
+Triggered automatically for employees receiving "below expectations" rating.
+60-day improvement period with weekly manager check-ins.
+Specific metrics and deadlines must be established.
+HR partnership required throughout PIP process.
+
+10. Manager Training:
+Annual performance management training required for all people managers.
+Bias awareness training to ensure fair and equitable evaluations.
+Difficult conversation workshops for addressing performance issues.
+Regular coaching on providing effective feedback and development opportunities. 

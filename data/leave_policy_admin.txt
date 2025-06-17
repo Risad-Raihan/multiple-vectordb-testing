@@ -1,0 +1,14 @@
+=== ACCESS: admin ===
+This document provides admin-level access to leave-related analytics and controls.
+
+1. Historical Leave Data:
+HR has access to leave patterns and usage by department to identify trends and operational risks.
+
+2. Approver Controls:
+Admins can designate leave approvers and escalation protocols in the HR system.
+
+3. Documentation:
+All leave requests and medical certificates must be digitally archived for 3 years.
+
+4. Policy Exceptions:
+Only HR managers can authorize exceptions to standard leave policies in documented special cases.

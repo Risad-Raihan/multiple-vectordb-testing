@@ -1,0 +1,9 @@
+=== ACCESS: user ===
+This policy defines rules and procedures for employee leaves.
+- Annual Leave: 20 days
+- Sick Leave: 10 days
+- Maternity/Paternity Leave: Based on local laws
+
+=== ACCESS: admin ===
+Admins can access historical leave trends and individual leave balances.
+Note: All leave records must be archived for 3 years minimum.

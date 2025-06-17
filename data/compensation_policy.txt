@@ -1,0 +1,41 @@
+=== ACCESS: admin ===
+This document outlines the complete compensation structure across the organization.
+
+1. Salary Bands:
+Each job level corresponds to a specific salary band. Salary progression is reviewed annually based on performance.
+Level 1 (Entry): $45,000-$55,000 | Level 2 (Associate): $55,000-$70,000 | Level 3 (Senior): $70,000-$90,000
+Level 4 (Lead): $90,000-$115,000 | Level 5 (Manager): $115,000-$145,000 | Level 6 (Director): $145,000-$180,000
+Level 7 (VP): $180,000-$220,000 | Level 8 (C-Suite): $220,000-$300,000+
+Geographic adjustments: SF/NYC +20%, Austin/Seattle +15%, Other major cities +10%
+
+2. Bonus Eligibility:
+Employees may receive bonuses based on company profitability and individual KPIs. Bonus ranges vary by level.
+Individual performance bonus: 5-15% of base salary based on annual review rating.
+Company performance bonus: 0-10% of base salary based on revenue/profit targets.
+Department goals bonus: 0-5% of base salary for team achievements.
+Spot bonuses: $500-$5,000 for exceptional contributions. Referral bonus: $2,000 for successful hires.
+
+3. Allowances:
+Housing, transport, and mobile allowances are available for Level 3 employees and above.
+Housing allowance: $1,000/month for Level 3-4, $1,500/month for Level 5+.
+Transportation: $200/month parking or transit subsidy. Company car for Directors and above.
+Technology allowance: $100/month for mobile, $1,500 annual for home office equipment.
+Health and wellness: $500 annual gym membership reimbursement.
+
+4. Pay Review Cycle:
+Annual compensation review takes place in Q1 of each fiscal year. Managers submit recommendations for their team.
+Merit increases: 3-8% based on performance rating. Promotion increases: 8-15% of base salary.
+Market adjustments conducted every 18 months. Cost of living adjustments applied annually.
+Pay equity audits performed quarterly to ensure fair compensation across demographics.
+
+5. Equity and Stock Options:
+Stock options granted at hire for Level 4 and above. Additional grants based on performance and retention.
+Vesting schedule: 25% after 1 year, then monthly vesting for remaining 75% over 3 years.
+Refresher grants annually for high performers. IPO/acquisition acceleration clauses apply.
+ESPP available to all employees with 15% discount on company stock.
+
+6. Confidentiality:
+Compensation details are confidential and must not be disclosed to unauthorized personnel.
+Salary discussion among employees is protected but external disclosure is prohibited.
+Managers must maintain strict confidentiality of team member compensation information.
+Violation of compensation confidentiality may result in disciplinary action including termination.

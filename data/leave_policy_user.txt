@@ -1,0 +1,33 @@
+=== ACCESS: user ===
+This policy defines the procedures for applying and approving employee leave.
+
+1. Annual Leave:
+Employees are entitled to 20 days of paid annual leave. Leave must be requested 5 working days in advance.
+Annual leave can be carried forward up to 5 days to the next year. Unused leave beyond 5 days will be forfeited.
+Leave requests during peak business periods (December, March, June) require 15 days advance notice.
+Partial day leave can be taken in 4-hour increments with supervisor approval.
+
+2. Sick Leave:
+Up to 10 days of sick leave per year. A medical certificate is required for leaves longer than 2 days.
+Unused sick leave cannot be carried forward. Emergency sick leave can be taken immediately with phone/email
+notification to your supervisor within 2 hours of start time. Long-term illness requires FMLA documentation.
+
+3. Maternity/Paternity Leave:
+Eligible employees are entitled to leave as per local laws and internal policy (up to 6 months for maternity).
+Maternity leave: 12 weeks paid, additional 12 weeks unpaid available. Must notify HR 30 days in advance.
+Paternity leave: 4 weeks paid within first year of child's birth/adoption. Gradual return-to-work options available.
+Adoption leave follows same guidelines as maternity/paternity leave.
+
+4. Emergency Leave:
+Employees may request emergency leave by directly contacting their reporting manager and HR.
+Up to 3 days of emergency leave per year for immediate family situations. Documentation may be required.
+Bereavement leave: 5 days for immediate family, 3 days for extended family. Additional unpaid leave available.
+
+5. Personal Leave:
+Unpaid personal leave available for up to 30 days per year with manager approval. Must exhaust all paid leave first.
+Sabbatical leave available for employees with 5+ years of service. Application process starts 6 months in advance.
+
+6. Leave Application Process:
+All leave requests must be submitted through the HR portal. Supervisor approval required within 3 business days.
+Calendar blocking mandatory once leave is approved. Handover documentation required for leaves exceeding 5 days.
+Leave cancellation must be notified 24 hours in advance unless emergency.

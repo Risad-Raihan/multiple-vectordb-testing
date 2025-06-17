@@ -1,0 +1,5 @@
+weaviate-client==3.25.3
+qdrant-client==1.7.3
+pathlib
+typing-extensions
+requests 

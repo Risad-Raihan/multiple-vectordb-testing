@@ -1,0 +1,379 @@
+=== ACCESS: user ===
+Welcome to the company! This handbook outlines the basic rules and expectations for all employees.
+
+1. Code of Conduct:
+All employees are expected to maintain a professional and respectful work environment. 
+
+Professional behavior expectations:
+- Treat all colleagues, clients, and vendors with respect and courtesy
+- Maintain confidentiality of sensitive company and client information
+- Act with integrity and honesty in all business dealings
+- Avoid conflicts of interest and disclose potential conflicts immediately
+- Follow all applicable laws, regulations, and company policies
+
+Prohibited behaviors:
+- Discrimination or harassment based on race, gender, religion, age, disability, or other protected characteristics
+- Violence, threats, or intimidation of any kind
+- Theft, fraud, or misuse of company property or resources
+- Substance abuse or working under the influence of drugs or alcohol
+- Sharing confidential information with unauthorized parties
+- Engaging in activities that compete with company business
+
+Reporting violations:
+- Report any violations to HR immediately through the anonymous hotline: 1-800-ETHICS
+- Retaliation against employees who report violations in good faith is strictly prohibited
+- All reports will be investigated promptly and confidentially
+- Disciplinary action may include verbal/written warnings, suspension, or termination
+
+2. Attendance Policy:
+Work hours are from 9 AM to 6 PM, Monday to Friday with a 1-hour lunch break.
+
+Core hours and flexibility:
+- Core hours: 10 AM to 4 PM (all employees must be available)
+- Flexible start time: 8 AM to 10 AM (with supervisor approval)
+- Flexible end time: 5 PM to 7 PM (to complete 8-hour workday)
+- Lunch break: 30 minutes minimum, 90 minutes maximum
+
+Remote work policy:
+- Remote work must be approved by supervisor and HR
+- Maximum 2 days per week remote work for eligible employees
+- Home office requirements: reliable internet, quiet workspace, availability during core hours
+- Equipment provided: laptop, monitor, phone, office supplies
+- Performance expectations remain the same as in-office work
+
+Attendance tracking:
+- Use badge system for in-office attendance tracking
+- Report tardiness or absences to manager immediately
+- Excessive tardiness (5+ times per month) may result in disciplinary action
+- Unexcused absences may result in unpaid time off and disciplinary action
+
+Leave notifications:
+- Notify manager at least 2 hours before shift start for sick leave
+- Email both manager and HR for planned absences
+- Use company leave management system for all requests
+- Emergency leave: call within 4 hours when possible
+
+3. Benefits Overview:
+Employees are eligible for comprehensive health insurance, retirement plans, and paid time off.
+
+Health insurance enrollment:
+- Coverage begins first day of the month following 30 days of employment
+- Open enrollment period: November 1-30 annually
+- Special enrollment available for qualifying life events (marriage, birth, loss of coverage)
+- COBRA continuation coverage available upon termination
+
+Retirement benefits:
+- 401(k) plan with company matching available after 90 days of employment
+- Automatic enrollment at 3% contribution rate (can opt out or change)
+- Quarterly retirement planning seminars available
+- Online tools and calculators for retirement planning
+
+Paid time off accrual:
+- Vacation time accrues monthly based on tenure
+- Sick leave: 10 days annually, available immediately upon hire
+- Personal days: 3 days annually, available after 6 months of employment
+- Holiday schedule published annually, includes major federal holidays
+
+Additional benefits:
+- Life insurance: Basic coverage (1x salary) provided, supplemental coverage available
+- Short and long-term disability insurance available
+- Flexible spending accounts for healthcare and dependent care
+- Employee assistance program for counseling and support services
+
+4. Dress Code:
+Business casual attire is expected unless otherwise specified.
+
+General dress code guidelines:
+- Clean, pressed, and professional appearance at all times
+- Clothing should be appropriate for a business environment
+- Avoid clothing with offensive language, images, or messages
+- Personal hygiene and grooming standards should be maintained
+- Jewelry and accessories should be tasteful and not distracting
+
+Business casual definition:
+- Dress pants, khakis, or dress skirts (knee-length or longer)
+- Collared shirts, blouses, or sweaters
+- Closed-toe shoes (dress shoes, loafers, or professional boots)
+- Blazers or cardigans for client meetings
+- No jeans, shorts, flip-flops, or athletic wear
+
+Casual Friday policy:
+- Jeans are permitted (clean, no holes or excessive wear)
+- Polo shirts, casual button-down shirts, or nice t-shirts
+- Sneakers or casual shoes acceptable
+- Still no shorts, flip-flops, or offensive clothing
+
+Special circumstances:
+- Client-facing roles: Business professional required during client interactions
+- Safety-sensitive positions: Closed-toe shoes and appropriate work attire mandatory
+- Company events: Dress code specified on event invitations
+- Religious or cultural dress accommodations available upon request
+
+5. Communication:
+Use company email and approved communication tools for all work-related communications.
+
+Approved communication channels:
+- Email: Primary business communication, check at least twice daily
+- Microsoft Teams: Instant messaging, video calls, file sharing
+- Slack: Team collaboration and project communication
+- Company phone system: Internal and external business calls
+- Zoom: Video conferencing for meetings and training
+
+Email guidelines:
+- Use professional tone and language in all communications
+- Include clear subject lines and concise messages
+- Reply to emails within 24 hours during business days
+- Use "Reply All" judiciously to avoid unnecessary messages
+- Personal email use should be minimal during work hours
+
+Information security:
+- Never share login credentials or passwords
+- Avoid discussing confidential information in public areas
+- Use secure file sharing methods for sensitive documents
+- Report phishing attempts or suspicious emails to IT immediately
+- External communications representing the company must be approved by management
+
+Social media policy:
+- Personal social media use during work hours should be limited
+- Do not share confidential company information on social media
+- Identify yourself as a company employee when posting about work
+- Maintain professional image in all social media interactions
+- Report any negative social media mentions of the company to marketing
+
+6. Performance Management:
+Annual performance reviews conducted in December with mid-year check-ins in June.
+
+Performance review process:
+- Self-evaluation completed by employee 1 week before review
+- Manager evaluation and rating assigned
+- Review meeting to discuss performance, goals, and development
+- Performance improvement plan created if needed
+- Annual goals set for following year
+
+Performance rating scale:
+- Exceeds Expectations (5): Consistently surpasses goals and expectations
+- Meets Expectations Plus (4): Regularly exceeds most goals
+- Meets Expectations (3): Achieves all goals and meets job requirements
+- Below Expectations (2): Falls short of some goals, improvement needed
+- Unsatisfactory (1): Fails to meet basic job requirements
+
+Goal setting framework:
+- SMART goals: Specific, Measurable, Achievable, Relevant, Time-bound
+- Maximum 5 goals per review period
+- Goals should align with department and company objectives
+- Regular progress check-ins with manager throughout year
+
+Career development:
+- Individual development plans created annually
+- Mentorship program available for all employees
+- Internal job postings given preference to current employees
+- Tuition reimbursement for job-related education and training
+- Leadership development programs for high-potential employees
+
+7. Training and Development:
+Company provides annual training budget of $2,000 per employee for professional development.
+
+Mandatory training requirements:
+- New hire orientation: 2-day program covering company policies and procedures
+- Annual compliance training: Anti-harassment, data security, safety protocols
+- Role-specific training: Technical skills, software, industry certifications
+- Deadline: All mandatory training must be completed within 30 days
+
+Professional development opportunities:
+- External conferences and seminars (with manager approval)
+- Online training platforms: LinkedIn Learning, Coursera, company-specific training
+- Internal workshops and lunch-and-learn sessions
+- Cross-training opportunities in other departments
+- Professional certification programs with exam fee reimbursement
+
+Training approval process:
+- Submit training requests through manager and HR
+- Include justification for how training benefits role and company
+- Budget approval required for external training over $500
+- Training must be completed within 6 months of approval
+- Knowledge sharing required upon completion of external training
+
+8. Safety and Security:
+Building access cards must be worn visibly at all times throughout the facility.
+
+Physical security measures:
+- Badge access required for all building entrances
+- Visitor escort policy: All visitors must be signed in and accompanied
+- Parking lot security cameras and lighting for employee safety
+- After-hours building access requires manager approval
+- Lost or stolen access cards must be reported immediately
+
+Emergency procedures:
+- Emergency evacuation routes posted in all work areas
+- Fire drills conducted quarterly with attendance tracking
+- Emergency contact information posted near all exits
+- First aid kits and AED devices located throughout facility
+- Incident reporting required for all accidents or safety concerns
+
+Workplace safety:
+- Report unsafe conditions to supervisor and facilities immediately
+- Use proper lifting techniques for objects over 20 pounds
+- Keep walkways clear of obstacles and spills
+- Ergonomic assessments available for all workstations
+- Personal protective equipment provided for applicable roles
+
+Security protocols:
+- Lock computer screens when away from desk
+- Do not share access codes or prop open secure doors
+- Secure confidential documents in locked cabinets
+- Report suspicious activity to security immediately
+- Follow clean desk policy for sensitive information
+
+9. IT and Technology:
+Company-issued equipment remains property of the organization and must be returned upon termination.
+
+Equipment assignment:
+- Laptop computer with standard software installation
+- Monitor, keyboard, mouse, and docking station for office use
+- Mobile phone with company plan for eligible employees
+- Equipment checkout form required with manager signature
+- Damage or loss reporting required within 24 hours
+
+Software and applications:
+- Standard software package: Microsoft Office, antivirus, VPN client
+- Specialized software requires manager approval and licensing
+- Personal software installation prohibited without IT approval
+- Software licensing compliance monitored regularly
+- Unlicensed software use may result in disciplinary action
+
+IT support and policies:
+- Help desk support available: email support@company.com or call ext. 4357
+- Password requirements: Minimum 8 characters, changed every 90 days
+- Data backup responsibilities: Save work to company network drives
+- Internet usage monitoring: Reasonable personal use acceptable
+- Prohibited activities: Illegal downloads, inappropriate websites, security circumvention
+
+Remote work technology:
+- VPN access required for all remote work
+- Home internet requirements: Minimum 25 Mbps download speed
+- Printer/scanner access available at nearby office locations
+- Technology stipend: $100/month for high-speed internet
+- Equipment insurance coverage for home office use
+
+10. Workplace Policies:
+Comprehensive policies to ensure a safe, productive, and inclusive work environment.
+
+Smoking and tobacco policy:
+- No smoking policy applies to all company premises and vehicles
+- Designated smoking areas located outside building entrances
+- E-cigarettes and vaping devices prohibited in all indoor areas
+- Smoking cessation programs available through wellness benefits
+- Violations may result in disciplinary action
+
+Alcohol and substance policy:
+- Alcohol consumption prohibited during work hours
+- Approved company events may include alcoholic beverages
+- Drug-free workplace policy strictly enforced
+- Employees may be required to submit to drug/alcohol testing
+- Prescription medication use must not impair job performance
+
+Personal property and privacy:
+- Company not responsible for lost or stolen personal items
+- Personal storage limited to assigned desk/locker space
+- Reasonable expectation of privacy for personal belongings
+- Company reserves right to search company property
+- Personal phone calls should be brief and infrequent
+
+Environmental responsibility:
+- Recycling program for paper, plastic, and electronic waste
+- Energy conservation: Turn off lights and equipment when not in use
+- Paperless initiatives encouraged for internal communications
+- Public transportation subsidies available
+- Volunteer opportunities for environmental community service
+
+=== ACCESS: admin ===
+Administrative policies and procedures for management and HR personnel.
+
+11. Disciplinary Procedures:
+Progressive discipline policy for performance and conduct issues.
+
+Disciplinary process steps:
+- Verbal counseling: Informal discussion with documentation
+- Written warning: Formal written notice of performance/conduct issue
+- Final written warning: Last chance notice before termination
+- Suspension: Unpaid leave for serious violations
+- Termination: End of employment relationship
+
+Documentation requirements:
+- All disciplinary actions must be documented in employee file
+- Employee signature required on all written warnings
+- HR review and approval required for all disciplinary actions
+- Legal review required for terminations and discrimination-related issues
+- Retention period: 5 years for all disciplinary documentation
+
+Grievance process:
+- Open door policy for employees to discuss concerns with management
+- Formal grievance process available through HR
+- Anonymous reporting hotline for serious violations
+- Investigation procedures for all formal complaints
+- Appeals process available for disciplinary actions
+
+12. Hiring and Onboarding:
+Comprehensive procedures for recruiting, hiring, and onboarding new employees.
+
+Recruitment process:
+- Job posting requirements and approval process
+- Interview panel composition and bias training
+- Background check and reference verification procedures
+- Offer letter templates and salary negotiation guidelines
+- New hire paperwork and I-9 verification requirements
+
+Onboarding checklist:
+- Workspace setup and equipment assignment
+- Benefits enrollment and explanation
+- IT account creation and system access
+- Department introductions and role-specific training
+- 30-60-90 day check-in schedule with manager and HR
+
+Probationary period:
+- 90-day probationary period for all new hires
+- Performance evaluation at 30, 60, and 90 days
+- Immediate feedback and coaching provided
+- Probationary period may be extended with HR approval
+- Termination during probation requires manager and HR approval
+
+13. Compensation and Benefits Administration:
+Detailed procedures for managing employee compensation and benefits.
+
+Salary administration:
+- Annual compensation review process and timeline
+- Merit increase guidelines and budget allocation
+- Promotion and reclassification procedures
+- Overtime and comp time policies for non-exempt employees
+- Payroll processing and error correction procedures
+
+Benefits management:
+- Enrollment tracking and compliance monitoring
+- COBRA administration and notification requirements
+- Flexible spending account management
+- Leave tracking and Family Medical Leave Act (FMLA) compliance
+- Workers' compensation claims processing
+
+14. Legal Compliance:
+Ensuring compliance with all applicable employment laws and regulations.
+
+Equal Employment Opportunity:
+- Non-discrimination policy enforcement
+- Reasonable accommodation procedures for disabilities
+- Pregnancy accommodation policies
+- Religious accommodation procedures
+- Anti-retaliation protection for employees filing complaints
+
+Wage and hour compliance:
+- Fair Labor Standards Act (FLSA) compliance
+- Meal and rest break requirements
+- Overtime calculation and payment procedures
+- Time tracking and record keeping requirements
+- Classification of exempt vs. non-exempt employees
+
+Record keeping requirements:
+- Personnel file maintenance and access procedures
+- Payroll record retention requirements
+- Training record documentation
+- Incident and accident report filing
+- Government reporting and compliance documentation
